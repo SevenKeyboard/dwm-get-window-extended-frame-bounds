@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SevenKeyboard.DwmGetWindowExtendedFrameBounds/SevenKeyboard.DwmGetWindowExtendedFrameBounds.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DwmGetWindowExtendedFrameBounds.Smoke/DwmGetWindowExtendedFrameBounds.Smoke.csproj" />
+  </Folder>
+</Solution>
